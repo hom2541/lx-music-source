@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="380" height="546" viewBox="0 0 380 546" role="img" aria-labelledby="health-title health-desc">
   <title id="health-title">音源可用性</title>
-  <desc id="health-desc">共 18 个音源的状态检测结果，状态更新于 2026-11-12 23:56（北京时间）</desc>
+  <desc id="health-desc">共 18 个音源的状态检测结果，状态更新于 2026-11-13 06:39（北京时间）</desc>
 <style>
   .bg{fill:#ffffff}
   .rule{stroke:#e5e7eb;stroke-width:1}
@@ -71,12 +71,12 @@
   <text class="fg cell" x="24" y="453">grass</text>
   <circle class="dot warn" cx="228" cy="449" r="5"/>
   <text class="fg cell" x="244" y="453">异常</text>
-  <text class="fg cell" x="24" y="479">ikun</text>
+  <text class="fg cell" x="24" y="479">juhe</text>
   <circle class="dot warn" cx="228" cy="475" r="5"/>
   <text class="fg cell" x="244" y="479">异常</text>
-  <text class="fg cell" x="24" y="505">juhe</text>
-  <circle class="dot warn" cx="228" cy="501" r="5"/>
-  <text class="fg cell" x="244" y="505">异常</text>
+  <text class="fg cell" x="24" y="505">ikun</text>
+  <circle class="dot dead" cx="228" cy="501" r="5"/>
+  <text class="fg cell" x="244" y="505">失效</text>
   <line class="rule" x1="24" y1="514" x2="356" y2="514"/>
-  <text class="muted foot" x="24" y="534">状态更新于 2026-11-12 23:56（北京时间）</text>
+  <text class="muted foot" x="24" y="534">状态更新于 2026-11-13 06:39（北京时间）</text>
 </svg>
